@@ -50,7 +50,7 @@
 }
 #u113 {
   position:absolute;
-  left:1px;
+  left:0px;
   top:0px;
   width:375px;
   height:667px;
@@ -74,18 +74,18 @@
 }
 #u116 {
   position:absolute;
-  left:100px;
-  top:538px;
-  width:176px;
+  left:0px;
+  top:614px;
+  width:375px;
   height:53px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
 #u117 {
   position:absolute;
-  left:145px;
-  top:600px;
-  width:86px;
+  left:316px;
+  top:23px;
+  width:59px;
   height:40px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
@@ -100,7 +100,7 @@
 #u118 {
   position:absolute;
   left:50px;
-  top:182px;
+  top:229px;
   width:275px;
   height:295px;
 }
@@ -114,8 +114,8 @@
 }
 #u120 {
   position:absolute;
-  left:91px;
-  top:471px;
+  left:92px;
+  top:534px;
   width:187px;
   height:40px;
   overflow:hidden;

@@ -66,7 +66,7 @@
 #u140 {
   position:absolute;
   left:91px;
-  top:470px;
+  top:538px;
   width:187px;
   height:30px;
   overflow:hidden;
@@ -74,19 +74,28 @@
 }
 #u141 {
   position:absolute;
-  left:86px;
-  top:586px;
-  width:202px;
+  left:323px;
+  top:25px;
+  width:51px;
   height:39px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
 #u142 {
   position:absolute;
-  left:86px;
-  top:520px;
-  width:202px;
-  height:60px;
+  left:0px;
+  top:618px;
+  width:374px;
+  height:49px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u144 {
+  position:absolute;
+  left:0px;
+  top:16px;
+  width:48px;
+  height:48px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
